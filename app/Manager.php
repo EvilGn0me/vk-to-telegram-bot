@@ -221,7 +221,7 @@ class Manager
                         }
 
                         //Send message
-                        $telegram->sendMessage($message, $messageParams);
+                        //$telegram->sendMessage($message, $messageParams);
                     }
 
 
